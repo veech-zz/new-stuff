@@ -1,2 +1,2 @@
 # new-stuff
-juggle, juggle, juggle.
+Juggle, juggle, juggle.
